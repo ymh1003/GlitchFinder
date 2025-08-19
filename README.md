@@ -1,4 +1,4 @@
-# Gcode-Checking-Project
+# GlitchFinder
 This repository contains scripts for comparing two G-code files. It is particularly useful for analyzing differences between G-code files that are intended to represent the **same model** but **differ** in orientation, slicer settings, or source — differences that often reveal issues in mesh geometry or highlight the effectiveness of slicers and mesh repair tools.
 
 ## Requirements
