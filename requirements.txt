@@ -1,0 +1,5 @@
+numpy<2
+open3d 
+tqdm 
+pyntcloud 
+memory_profiler
